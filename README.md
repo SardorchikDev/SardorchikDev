@@ -21,4 +21,4 @@ Building robust, high-performance solutions—from low-level systems to responsi
 ---
 
 ### 📫 Connect
-[Portfolio](https://sadifrontend-portfolio.vercel.app/) • [GitHub](https://github.com/SadiFrontend) • [Email](mailto:yachiter1112@gmail.com)
+[Portfolio](https://sadifrontend-portfolio.vercel.app/) • [GitHub](https://github.com/SardorchikDev) • [Email](mailto:yachiter1112@gmail.com)
