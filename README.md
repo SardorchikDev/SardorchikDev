@@ -97,16 +97,6 @@ Font     JetBrains Mono NF
 
 > *The ultimate terminal AI assistant. Built to survive rate limits.*
 
-```
-  ██╗     ██╗   ██╗███╗   ███╗██╗
-  ██║     ██║   ██║████╗ ████║██║
-  ██║     ██║   ██║██╔████╔██║██║
-  ██║     ██║   ██║██║╚██╔╝██║██║
-  ███████╗╚██████╔╝██║ ╚═╝ ██║██║
-  ╚══════╝ ╚═════╝ ╚═╝     ╚═╝╚═╝
-         A R T I F I C I A L   I N T E L L I G E N C E
-```
-
 A free, open-source CLI chatbot with real personality. Supports **5 providers** and **40+ free models** with automatic fallback when quota hits. Features direct file editing, git helpers, code execution, long-term memory, and syntax-highlighted responses.
 
 **Providers:** Gemini · Groq · OpenRouter · Mistral · HuggingFace
