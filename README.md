@@ -1,114 +1,51 @@
 <div align="center">
 
-**`SADI_DEV`** · Software Developer · Systems Architect · Problem Solver
+# `SADI_DEV`
 
-*Building robust, high-performance solutions — from low-level kernels to responsive interfaces.*
+**Systems Developer · Terminal Native · Problem Solver**
+
+*I write software that's fast by design, not by accident.*
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-1a1b2e?style=for-the-badge&logo=vercel&logoColor=bb9af7)](https://my-portfolio-gilt-three-80.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-1a1b2e?style=for-the-badge&logo=gmail&logoColor=f7768e)](mailto:yachiter1112@gmail.com)
+[![Email](https://img.shields.io/badge/Hire_Me-1a1b2e?style=for-the-badge&logo=gmail&logoColor=f7768e)](mailto:yachiter1112@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-1a1b2e?style=for-the-badge&logo=github&logoColor=c0caf5)](https://github.com/SardorchikDev)
-[![Location](https://img.shields.io/badge/Tashkent%2C_UZ-1a1b2e?style=for-the-badge&logo=googlemaps&logoColor=7dcfff)](#)
+[![Status](https://img.shields.io/badge/🟢_Open_to_Work-1a1b2e?style=for-the-badge&logoColor=9ece6a)](#-get-in-touch)
 
 </div>
 
 ---
 
-## ⚡ About Me
+## What I Bring to Your Project
 
-I am a developer who believes that **"The best software is the one you build yourself."**
+I bridge the gap between **low-level performance** and **high-level usability**. If your system is slow, brittle, or hard to maintain — that's the kind of problem I was built for.
 
-My workflow is centered around the terminal, minimalist setups, and the Tokyo Night aesthetic. I specialize in **bridge-building** — connecting low-level system efficiency with high-level user utility.
+- ⚡ **Systems programming** — C/C++, memory management, Xlib, kernel-adjacent work
+- 🤖 **AI tooling & automation** — multi-provider CLI tools, bots, scripted workflows  
+- 🛠️ **Developer tooling** — compilers, language runtimes, terminal-native utilities
+- 🌐 **Full pipeline** — from bare metal to deployed web interface
 
-- 🛠️ Currently refining **[uxwm](https://github.com/SardorchikDev/uxwm)** — a custom window manager built for absolute speed and control
-- 🧠 Building **[Lumi](https://github.com/SardorchikDev/Lumi)** — a terminal-native AI assistant with 5 providers, 40+ free models, and direct file editing
-- 🦀 Learning **Rust** — because if you're going to write fast code, write it right
-- 🐧 Daily driving **CachyOS** — Neovim, Fish shell, Alacritty, zero bloat
-- 🎨 Obsessed with JetBrains Mono, translucent UIs, and glowing Japanese textures
+**Currently available** for freelance work, contract projects, and full-time roles.
 
-> *"Code should be like a well-tuned engine: silent, efficient, and transparent when you need to fix it."*
-
----
-
-## 🛠️ Core Stack
-
-<table>
-<tr>
-<td valign="top" width="33%">
-
-**Systems**
-```
-C          ████████████  Primary
-C++        █████████░░░  Strong
-Rust       ████░░░░░░░░  Learning
-```
-
-</td>
-<td valign="top" width="33%">
-
-**Scripting & Web**
-```
-Python     ████████████  Primary
-Bash       █████████░░░  Strong
-JavaScript ███████░░░░░  Proficient
-Lua        █████░░░░░░░  Familiar
-```
-
-</td>
-<td valign="top" width="33%">
-
-**Environment**
-```
-OS       CachyOS / Arch Linux
-WM       uxwm (custom)
-Editor   Neovim
-Shell    Fish
-Term     Alacritty
-Font     JetBrains Mono NF
-```
-
-</td>
-</tr>
-</table>
-
-### Tools & Technologies
-
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=orange)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Nix](https://img.shields.io/badge/Nix-5277C3?style=flat-square&logo=nixos&logoColor=white)
+> 📬 **Fastest response:** [yachiter1112@gmail.com](mailto:yachiter1112@gmail.com)
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 What I've Built
 
-### ✦ [Lumi](https://github.com/SardorchikDev/Lumi) — Terminal AI Assistant
+### [Lumi](https://github.com/SardorchikDev/Lumi) — AI Assistant That Actually Works in the Terminal
 
-> *The ultimate terminal AI assistant. Built to survive rate limits.*
+Most AI tools break when you're deep in a terminal workflow. Lumi doesn't.
 
-A free, open-source CLI chatbot with real personality. Supports **5 providers** and **40+ free models** with automatic fallback when quota hits. Features direct file editing, git helpers, code execution, long-term memory, and syntax-highlighted responses.
+**5 providers, 40+ free models, automatic fallback** — so rate limits never stop you. Direct file editing, git integration, code execution, and long-term memory. All from the command line.
 
-**Providers:** Gemini · Groq · OpenRouter · Mistral · HuggingFace
+```bash
+lumi /edit src/index.html   # AI edits your file directly
+lumi /fix "segfault on L42" # Diagnoses and fixes errors
+lumi /git commit            # Writes your commit message
+lumi /run                   # Executes the code from last reply
+```
 
-| Feature | Command |
-|---|---|
-| Edit any file with AI | `/edit src/index.html` |
-| Run code from last reply | `/run` |
-| Fix any error | `/fix <error message>` |
-| AI commit messages | `/git commit` |
-| Web search | `/search <query>` |
-| Switch provider + model | `/model` |
+*Built because existing tools were too slow, too expensive, or too GUI-dependent.*
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Stars](https://img.shields.io/github/stars/SardorchikDev/Lumi?style=flat-square&color=e0af68)
@@ -116,16 +53,13 @@ A free, open-source CLI chatbot with real personality. Supports **5 providers** 
 
 ---
 
-### ✦ [uxwm](https://github.com/SardorchikDev/uxwm) — Custom Window Manager
+### [uxwm](https://github.com/SardorchikDev/uxwm) — Window Manager Written from Scratch in C
 
-> *"The best software is the one you build yourself."*
+Not a fork. Not a config. A window manager I wrote because none of the existing ones gave me what I wanted.
 
-A lightweight, manual-tiling window manager for the X Window System. Designed for power users who want **absolute control** over their workspace. No unnecessary abstractions, no bloat — just pure C and Xlib.
+Manual tiling, zero bloat, full keyboard control. Runs on anything. Built with raw Xlib and pure C — no abstraction layers, no unnecessary dependencies.
 
-- Manual tiling layout — you decide where every window goes
-- Minimal memory footprint — runs on anything
-- Fully keyboard-driven workflow
-- Tokyo Night inspired color scheme built-in
+*This project exists because I understand systems well enough to not be afraid of them.*
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![Stars](https://img.shields.io/github/stars/SardorchikDev/uxwm?style=flat-square&color=e0af68)
@@ -133,19 +67,60 @@ A lightweight, manual-tiling window manager for the X Window System. Designed fo
 
 ---
 
-### ✦ [brainF-compiler](https://github.com/SardorchikDev/brainF-compiler-) — Minimalist Language Compiler
+### [brainF-compiler](https://github.com/SardorchikDev/brainF-compiler-) — Complete Compiler in Under 300 Lines
 
-> *Proof of concept. Under 300 lines of C.*
+A fully-spec-compliant Brainfuck compiler with direct native code generation. No stdlib bloat, no dependencies — just proof that I understand how compilers actually work at the machine level.
 
-A complete Brainfuck compiler that demonstrates low-level memory manipulation and efficient code generation. Every byte counts — no dependencies, no stdlib bloat beyond the bare minimum.
-
-- Full Brainfuck spec implementation
-- Direct native code generation
-- < 300 lines of C
-- Educational — clean, commented, readable
+*300 lines. Zero dependencies. Full implementation.*
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![Stars](https://img.shields.io/github/stars/SardorchikDev/brainF-compiler-?style=flat-square&color=e0af68)
+
+---
+
+## 🛠️ Stack
+
+<table>
+<tr>
+<td valign="top">
+
+**Languages**
+```
+C          ████████████  Primary
+C++        █████████░░░  Strong  
+Python     ████████████  Primary
+Bash       █████████░░░  Strong
+Rust       ████░░░░░░░░  Learning
+JS/Lua     ██████░░░░░░  Proficient
+```
+
+</td>
+<td valign="top">
+
+**Environment**
+```
+OS      CachyOS / Arch Linux
+WM      uxwm (custom-built)
+Editor  Neovim
+Shell   Fish
+Term    Alacritty
+Font    JetBrains Mono NF
+```
+
+</td>
+</tr>
+</table>
+
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=orange)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white)
 
 ---
 
@@ -163,19 +138,18 @@ A complete Brainfuck compiler that demonstrates low-level memory manipulation an
 
 ---
 
-## 🧬 Development Philosophy
+## How I Work
 
-I build software that lasts. Whether it's a 300-line C compiler or a multi-provider AI system, the principles are the same:
+I don't add dependencies I don't understand. I don't wrap bugs — I fix them at the source. I don't write software that needs to be rewritten in a year.
 
 ```
 Clarity    > Cleverness
-Simplicity > Feature bloat
-Ownership  > Dependencies
-Speed      > Convenience
-Terminal   > GUI (almost always)
+Ownership  > Abstraction
+Speed      > Convenience  
+Fix source > Add workaround
 ```
 
-I don't use tools I don't understand. I don't add dependencies I don't need. If something's broken, I fix it at the source — not with a wrapper.
+This isn't aesthetic minimalism. It's engineering discipline.
 
 ---
 
@@ -183,14 +157,16 @@ I don't use tools I don't understand. I don't add dependencies I don't need. If 
 
 <div align="center">
 
-| Platform | Link |
-|---|---|
-| 🌐 Portfolio | [my-portfolio-gilt-three-80.vercel.app](https://my-portfolio-gilt-three-80.vercel.app/) |
-| 📧 Email | [yachiter1112@gmail.com](mailto:yachiter1112@gmail.com) |
-| 🐙 GitHub | [@SardorchikDev](https://github.com/SardorchikDev) |
-| 📍 Location | Tashkent, Uzbekistan |
+**I'm currently available for work. Let's build something.**
 
-*Open to interesting projects, collaborations, and conversations about low-level systems or AI tooling.*
+| | |
+|---|---|
+| 📧 Email | [yachiter1112@gmail.com](mailto:yachiter1112@gmail.com) |
+| 🌐 Portfolio | [my-portfolio-gilt-three-80.vercel.app](https://my-portfolio-gilt-three-80.vercel.app/) |
+| 🐙 GitHub | [@SardorchikDev](https://github.com/SardorchikDev) |
+| 📍 Location | Tashkent, Uzbekistan · Remote-friendly |
+
+*Best for: systems software, developer tooling, CLI/automation, AI integrations, backend engineering.*
 
 </div>
 
@@ -198,15 +174,7 @@ I don't use tools I don't understand. I don't add dependencies I don't need. If 
 
 <div align="center">
 
-*Made with Neovim · Powered by terminal · Themed in Tokyo Night*
-
-```
-┌──────────────────────────────────────────────┐
-│  "The best software is the one you build      │
-│   yourself."                                  │
-│                              — SardorchikDev  │
-└──────────────────────────────────────────────┘
-```
+*Neovim · Fish · Tokyo Night · Terminal-first*
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=SardorchikDev.SardorchikDev&left_color=1a1b2e&right_color=9d7cd8)
 
