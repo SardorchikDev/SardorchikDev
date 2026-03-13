@@ -169,6 +169,7 @@ This isn't aesthetic minimalism. It's engineering discipline.
 *Best for: systems software, developer tooling, CLI/automation, AI integrations, backend engineering.*
 
 </div>
+#Thats why im better than most of you
 
 ---
 
