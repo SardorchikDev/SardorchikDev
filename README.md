@@ -167,7 +167,7 @@ This isn't aesthetic minimalism. It's engineering discipline.
 | 📍 Location | Tashkent, Uzbekistan · Remote-friendly |
 
 *Best for: systems software, developer tooling, CLI/automation, AI integrations, backend engineering.*
-#Thats why im better than most of you
+
 </div>
 
 ---
@@ -178,4 +178,5 @@ This isn't aesthetic minimalism. It's engineering discipline.
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=SardorchikDev.SardorchikDev&left_color=1a1b2e&right_color=9d7cd8)
 
+#Thats why im better than most of you
 </div>
