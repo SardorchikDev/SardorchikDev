@@ -26,7 +26,7 @@ I bridge the gap between **low-level performance** and **high-level usability**.
 
 **Currently available** for freelance work, contract projects, and full-time roles.
 
-> 📬 **Fastest response:** [yachiter1112@gmail.com](mailto:yachiter1112@gmail.com)
+> 📬 **Fastest response:** [yachiter1112@gmail.com](mailto:yachiter1112@gmail.com) - cringe ik
 
 ---
 
@@ -178,5 +178,4 @@ This isn't aesthetic minimalism. It's engineering discipline.
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=SardorchikDev.SardorchikDev&left_color=1a1b2e&right_color=9d7cd8)
 
-#Thats why im better than most of you
 </div>
